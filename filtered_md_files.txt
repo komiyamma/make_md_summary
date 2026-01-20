@@ -1,7 +1,0 @@
-G:\make_md_summary\AGENTS.md
-G:\make_md_summary\gemini_command.md
-G:\make_md_summary\README.md
-G:\make_md_summary\mod_mono\mod_mono_cs_study_015.md
-G:\make_md_summary\mod_mono\mod_mono_cs_study_016.md
-G:\make_md_summary\mod_mono\mod_mono_cs_study_017.md
-G:\make_md_summary\mod_mono\mod_mono_cs_study_018.md
