@@ -1,1 +1,0 @@
-エラーは仕様として分類すべきであり、ValidationやDomain等は責任元や対応が異なる。API応答はProblemDetails形式で統一し、HTTPステータスと対応付ける。
