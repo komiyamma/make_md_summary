@@ -1,0 +1,3 @@
+モジュール内部のカプセル化手法。
+index.tsに公開APIを集約し、internalフォルダを隠蔽する構成を推奨。
+deep importの弊害と、ESLintやexportsによる強制方法を解説。

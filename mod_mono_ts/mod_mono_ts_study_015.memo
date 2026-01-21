@@ -1,0 +1,2 @@
+TSとESLintによるモジュール境界の強制方法。
+tsconfigのpathsやno-restricted-imports等を活用し、内部への直接アクセスを禁止する手法を解説。

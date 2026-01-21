@@ -1,0 +1,2 @@
+Windows環境でのNode.jsとTypeScript開発準備。
+Node v24(LTS)とTS 5.9の導入、tscによるコンパイル、npm scripts設定、Hello TS実行までの手順を解説。
