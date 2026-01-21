@@ -1,0 +1,3 @@
+モジュール内を4層（Presentation, Application, Domain, Infrastructure）に整理。
+依存の向きを内側に固定し、層をまたぐルールを定義。
+「薄く入れる」コツを解説。
