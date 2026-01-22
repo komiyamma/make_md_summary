@@ -1,0 +1,1 @@
+UseCase層の依存監査は、EntitiesとPorts以外をimportしている箇所をLintで自動検出して防ぐ。違反時はPort化やAdapterへの移動で修正し、仕組みで守る。
