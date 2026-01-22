@@ -1,0 +1,1 @@
+PresenterはUseCaseの出力を受け取り、UIやAPIが扱いやすいViewModelに変換する役割を持つ。ビジネスロジックを含まず、表示の都合のみを担当する。
