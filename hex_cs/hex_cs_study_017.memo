@@ -1,0 +1,1 @@
+ヘキサゴナルアーキテクチャの実践的なプロジェクト構成を紹介。Core、Inbound/Outbound Adapter、Testsの適切な分割と依存方向の重要性を解説。
