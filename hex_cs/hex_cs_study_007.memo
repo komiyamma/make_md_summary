@@ -1,0 +1,1 @@
+OutboundはCoreが外部（DB/API）を利用する出口で、Port（interface）を定義しAdapterで実装することで、Coreを外部の詳細から完全に守ります。
