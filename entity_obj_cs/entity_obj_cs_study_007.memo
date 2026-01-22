@@ -1,0 +1,1 @@
+recordやinit-only、Nullable参照型など、C#の言語機能を活用してVOを安全かつ簡潔に実装する手法を解説。Factoryメソッドによる検証やテスト手法も紹介。

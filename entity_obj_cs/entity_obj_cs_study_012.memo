@@ -1,0 +1,1 @@
+DTOやstring入力を安全にVOへ変換する手法を解説。Create/TryCreate/Parseの使い分けや、検証エラーをまとめて返すResultパターンの実装を学ぶ。
