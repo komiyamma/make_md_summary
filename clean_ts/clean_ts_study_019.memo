@@ -1,0 +1,1 @@
+更新系UseCaseの基本手順（取得・更新・保存）をCompleteTask実装で詳説。RepositoryやClockのPort化、冪等性の方針、Fakeを使ったテスト手法を学ぶ。

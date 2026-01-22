@@ -1,0 +1,1 @@
+UseCaseの戻り値（Response）設計を解説。UI/HTTP都合を排除し、内側基準でDTOを返す重要性を学ぶ。各ユースケースの実装例や、readonly活用も紹介。
