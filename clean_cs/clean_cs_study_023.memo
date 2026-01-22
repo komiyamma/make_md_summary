@@ -1,0 +1,1 @@
+第23章：RepositoryとGateway。永続化や外部連携の出口をInterfaceとしてCoreに定義し、実装を外側に置くことで依存関係を逆転させる手法を解説。

@@ -1,0 +1,1 @@
+第22章：Presenterの役割。UseCaseのResponseModelを画面やAPI向けのViewModel/DTOへ変換し、表示都合をUseCaseから分離する実装を解説。

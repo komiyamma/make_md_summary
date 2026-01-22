@@ -1,0 +1,1 @@
+第20章：Interactorの実装。ユースケースの手順を定義し、入力を受けてEntityやRepositoryと連携し、結果をOutput Portへ渡す役割と実装方法を解説。

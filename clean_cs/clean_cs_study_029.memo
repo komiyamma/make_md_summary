@@ -1,0 +1,1 @@
+第29章：Controllerの責務。入力をUseCaseのRequestModelへ変換し、InputPortを呼び出し、Presenterの結果を返すという「薄い実装」の具体的な指針と禁止事項を解説。

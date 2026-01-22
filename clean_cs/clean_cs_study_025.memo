@@ -1,0 +1,1 @@
+第25章：トランザクション境界。整合性はUseCaseが決める。EF Coreの自動機能や、複数操作時のUnitOfWork/Decoratorによる実装を解説。

@@ -1,0 +1,1 @@
+第35章：Queryの実装。一覧や検索処理ではEntityを経由せず、ReadModelへのProjectionとAsNoTrackingで高速化を図りつつ、境界を厳守する設計手法を解説。
