@@ -1,0 +1,1 @@
+VOの等価性とHashSet/Dictionaryでの挙動を解説。EqualsとGetHashCodeの契約や、ミュータブルなVOが引き起こす問題、record型の利点について学ぶ。

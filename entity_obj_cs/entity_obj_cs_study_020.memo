@@ -1,0 +1,1 @@
+Orderを集約ルート、OrderLineを子Entity、MoneyなどをVOとして配置し、整合性を保ちながら明細管理や合計計算を行うOrder集約の実装手法を解説。
