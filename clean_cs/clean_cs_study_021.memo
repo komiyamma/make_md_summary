@@ -1,0 +1,1 @@
+UseCaseからPresenterへ結果を渡すOutput Portの設計を解説。Interfaceによる抽象化で出力の実装詳細（Web, CLI等）を隠蔽し、テスト容易性を高める手法を紹介しています。

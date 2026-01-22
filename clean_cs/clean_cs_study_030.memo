@@ -1,0 +1,1 @@
+入力データをUseCase用形式に変換するRequest Modelの設計を解説。DTOとの分離やAdapterでの変換により、UseCaseを外部変更から守る手法を紹介しています。

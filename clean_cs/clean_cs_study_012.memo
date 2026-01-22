@@ -1,0 +1,1 @@
+Presentation/Web層の構成を解説。Controller、Ports、Interactor、Presenterの役割と、依存関係を守る「薄いController」の設計を紹介しています。
