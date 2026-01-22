@@ -1,0 +1,1 @@
+RepositoryをメモリからSQLiteに差し替える実演。Composition Rootのみの変更で済み、共通テストで動作を保証。中心が無傷であることを証明する。
