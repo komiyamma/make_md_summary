@@ -1,1 +1,0 @@
-内側（Domain）と外側（Technical）の言葉を明確に分ける。UseCaseやEntitiesにHTTPやDB等の技術用語を持ち込まず、純粋な目的の言葉で設計する。

@@ -1,1 +1,0 @@
-4つの円（Entities, Use Cases, Interface Adapters, Frameworks）の役割を理解し、各層に置くべきものを明確にする。これにより責務を適切に分離する。

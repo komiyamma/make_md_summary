@@ -1,1 +1,0 @@
-Clean Architectureでは、内側のUseCasesから外側のAdaptersへの依存（内→外）は禁止。Port(interface)を介して依存方向を逆転させ、中心を守る。
