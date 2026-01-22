@@ -1,1 +1,0 @@
-UseCaseに生のHTTPを渡さず、Request Builderで抽出・検証・正規化を行い、UseCase Requestに変換することで、HTTPの詳細を境界で止めて守る。
