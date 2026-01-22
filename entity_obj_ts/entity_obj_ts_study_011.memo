@@ -1,0 +1,1 @@
+JavaScriptのSet/Mapが参照比較であることを理解し、Value Objectの等価性を`equals`や`key`メソッドで実装する重要性を解説。コレクション自体をVO化する設計も学ぶ。
