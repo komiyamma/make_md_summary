@@ -1,0 +1,1 @@
+第44章：UseCaseのテスト。RepositoryやOutputPortをFake/Spyに差し替え、DBやHTTPに依存せず、仕様と手順を高速に検証する手法を解説。
