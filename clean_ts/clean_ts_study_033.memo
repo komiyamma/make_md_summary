@@ -1,0 +1,1 @@
+PresenterでUseCaseの結果を画面用のViewModelに変換する設計。日付整形や表示フラグなどUI都合のロジックをここに集約し、Viewを単純化する。
