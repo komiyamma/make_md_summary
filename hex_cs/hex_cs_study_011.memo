@@ -1,0 +1,1 @@
+CoreはDBやWeb等の外部詳細を知らず、Port（interface）のみに依存します。これにより実装（Adapter）の差し替えやテストが容易になります。
