@@ -1,1 +1,0 @@
-追加系UseCaseの実装基本形（CreateTask）について詳細に解説。Entityでのルール保護、Port利用、Result型による成否統一、Fakeを活用したテスト手法まで網羅。
