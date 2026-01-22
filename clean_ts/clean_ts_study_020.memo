@@ -1,0 +1,1 @@
+参照系UseCaseのListTasks実装を解説。副作用なし、Port依存、DTO返却の重要原則を学ぶ。Repositoryのlist設計やUseCaseでのDTO変換も習得する。

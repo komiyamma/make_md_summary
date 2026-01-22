@@ -1,0 +1,1 @@
+Port差し替えによるUseCaseテスト手法を解説。Vitestを用い、FakeRepositoryやFixedClock等で外部依存なしに成功・失敗系を検証。状態テスト優先の原則も学ぶ。
