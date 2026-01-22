@@ -1,0 +1,1 @@
+UseCaseのInteractorは、入力（Request）を受け取り、処理を実行し、結果（Response）を返す。この一連の流れを型定義で固定し、実装のぶれを防ぐ。

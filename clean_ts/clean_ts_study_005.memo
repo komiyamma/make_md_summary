@@ -1,0 +1,1 @@
+データの流れと依存の向きを区別する。データは外から入り、境界でRequestに変換され、UseCaseで処理され、Responseとして外に出てViewModelに変換される。
