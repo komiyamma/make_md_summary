@@ -1,0 +1,1 @@
+Entityの本質である「同一性」とValue Objectの「等価性」の違いを解説。追跡の要否を基準にしたEntity判定方法と、TypeScriptを用いた実装例を学ぶ。
