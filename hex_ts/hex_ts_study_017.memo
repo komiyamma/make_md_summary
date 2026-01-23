@@ -1,0 +1,1 @@
+Use CaseはApplication Coreとしてドメインロジックを実装し、外部（Web/DB）への依存を持たない。純粋なTypeScriptで記述し、ビジネスルールを実現する。

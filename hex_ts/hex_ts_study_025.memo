@@ -1,0 +1,1 @@
+CLI入力の解析とDTOへの変換はAdapter内で行い、不適切なデータから中心核を保護する。Node標準のparseArgsやZodを利用した検証が有効である。

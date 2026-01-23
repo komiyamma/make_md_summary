@@ -1,0 +1,1 @@
+InMemoryRepositoryはOutbound Adapterの一種で、DB不要の高速なテストを可能にする。実装は薄く保ち、ビジネスルールを含めず純粋なデータ保持に徹する。
