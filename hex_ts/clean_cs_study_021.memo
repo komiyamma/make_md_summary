@@ -1,0 +1,1 @@
+ユースケースがPresenterに依存しないようOutput Portを設計する。結果をResponseModelで渡し、具体的な表示やレスポンス生成は外側に委ねる。

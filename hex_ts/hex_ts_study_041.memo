@@ -1,0 +1,1 @@
+Repositoryの多機能化を避け、必要に応じてPortを分割する。ビジネスルールや画面都合は中心やQueryPortに移し、Adapterを常に薄く保つようにする。
