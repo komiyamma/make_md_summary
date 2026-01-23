@@ -1,1 +1,0 @@
-HTTP導入編。Express v5を用いてInbound Adapterを実装。ControllerはRequestからUseCaseへの中継役に徹し、責務を分離して薄く保つ重要性を解説。
