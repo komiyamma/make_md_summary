@@ -1,0 +1,1 @@
+公開API（Surface）の範囲を定義し、export変更が破壊的変更となる理由を詳述。index.tsによる制御やinternal活用の安全な設計手法も提示。

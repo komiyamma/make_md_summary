@@ -1,0 +1,1 @@
+SemVerの前提となる「公開API」の定義手法を解説。import入口、exportされた値や型、挙動などを明示し、internalとの分離やexports活用を推奨。
