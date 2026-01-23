@@ -1,0 +1,1 @@
+ユースケースの単体テスト。DBやHTTPに依存せず、InMemoryRepositoryやFakeClockを用いて中心ロジックを高速かつ安定して検証する手法を解説。

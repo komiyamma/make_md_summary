@@ -1,0 +1,1 @@
+Output Portの設計。ユースケースがPresenterに依存せず結果を渡す仕組み。ResponseModelによるデータ定義と、Web都合を排除する境界設計。
