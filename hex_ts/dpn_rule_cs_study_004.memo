@@ -1,0 +1,1 @@
+依存ルールを守る物理的なプロジェクト分割を解説。Domain、Application、Infrastructure、UIの4層を構築し、責務分離と依存制御の土台を作ります。

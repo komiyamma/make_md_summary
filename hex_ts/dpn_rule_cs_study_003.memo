@@ -1,0 +1,1 @@
+Domain、Application、Infrastructure、UIの4層モデルとその責務を解説。長生きする中心と交換されやすい外側を区別し、依存の矢印を内側に向ける設計地図を作ります。
