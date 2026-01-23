@@ -11,6 +11,6 @@
       }
     },
     "requirePlanApproval": false,
-    "automationMode": "AUTO_CREATE_PR",
+    "automationMode": "AUTOMATION_MODE_UNSPECIFIED",
     "title": "gemini_command.md Markdown 完全自動実行"
   }'
