@@ -1,1 +1,0 @@
-Composition Rootによる依存解決。newを1か所に集め、中心を汚さずAdapterを差し替える設計。本番/テストの切替やCLI/HTTPの統合実装を解説。
