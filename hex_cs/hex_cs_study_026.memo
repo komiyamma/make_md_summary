@@ -1,0 +1,1 @@
+Outbound Port（IOrderRepository）をInMemory Adapterで実装し、DBなしで動作させる。ConcurrentDictionaryを使用し、Coreは実装を知らず、後にDBへ差し替え可能にする。

@@ -1,0 +1,1 @@
+.NETのDI基本機能。Program.csでPortとAdapterを登録し、依存解決を行う。3種のライフタイム（Transient/Scoped/Singleton）を適切に使い分け、スコープ不整合を防ぐ。

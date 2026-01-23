@@ -1,0 +1,1 @@
+Outbound Port（IOrderRepository）をEF CoreとSQLiteで実装。CoreにDB都合を持ち込まず、Adapter内でモデル変換を行い、実装の差し替えを容易にする。
