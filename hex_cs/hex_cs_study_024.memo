@@ -1,0 +1,1 @@
+Inbound Adapter（Controller）は薄く保つ。DTO受取と形式検証、Mapperでの変換、Port（UseCase）呼出のみを行い、業務ロジックはCoreへ徹底的に隔離する。

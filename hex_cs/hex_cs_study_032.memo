@@ -1,0 +1,1 @@
+Composition Root（Program.cs等）にDI登録を集約し、CoreとAdapterを配線する。拡張メソッドで整理し、設定で実装を切り替え可能にすることで、Coreの純粋性を保つ。

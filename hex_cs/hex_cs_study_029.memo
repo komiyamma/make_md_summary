@@ -1,0 +1,1 @@
+外部APIやメール送信もDB同様、CoreにPort（Interface）を定義し、Adapterで実装することで詳細を隔離。HttpClientやMailKitはAdapter内に隠蔽する。

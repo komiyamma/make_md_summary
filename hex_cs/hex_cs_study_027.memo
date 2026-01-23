@@ -1,0 +1,1 @@
+InMemoryからDBへの差し替えは、CoreやPortを変更せず、Adapterのみを実装し、DIで切り替えることで行う。DB詳細はAdapterに閉じ込め、Domainモデルとは分離する。

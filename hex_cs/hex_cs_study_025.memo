@@ -1,0 +1,1 @@
+Outbound Port（Repository）はCoreにInterfaceとして定義し、ドメイン用語を使用する。DB用語（DbContext/IQueryable）は禁止し、asyncとCancellationTokenを採用する。

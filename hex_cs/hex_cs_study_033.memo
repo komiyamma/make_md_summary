@@ -1,0 +1,1 @@
+HexagonalならCoreの単体テストが容易。PortにFake（InMemory）を差し込み、DBなしでDomainやUseCaseを高速に検証できる。AAAパターンで記述し、外部要素はPortに逃がす。

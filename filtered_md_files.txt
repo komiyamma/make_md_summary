@@ -1,0 +1,12 @@
+/app/hex_cs/hex_cs_study_029.md
+/app/hex_cs/hex_cs_study_026.md
+/app/hex_cs/hex_cs_study_028.md
+/app/hex_cs/hex_cs_study_035.md
+/app/hex_cs/hex_cs_study_030.md
+/app/hex_cs/hex_cs_study_033.md
+/app/hex_cs/hex_cs_study_034.md
+/app/hex_cs/hex_cs_study_032.md
+/app/hex_cs/hex_cs_study_024.md
+/app/hex_cs/hex_cs_study_027.md
+/app/hex_cs/hex_cs_study_025.md
+/app/hex_cs/hex_cs_study_031.md
