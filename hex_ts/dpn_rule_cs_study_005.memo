@@ -1,0 +1,1 @@
+プロジェクト参照における依存方向のルールと、Visual Studioでの設定方法を解説。Directory.Build.targetsを用いて違反をビルド時に防ぐ安全柵の構築法を学びます。
