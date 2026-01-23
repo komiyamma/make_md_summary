@@ -1,1 +1,0 @@
-InMemoryRepositoryをFileRepositoryに置換し、ドメインを変更せずJSON永続化を実現。Adapterは変換とI/Oに徹し、tmp書き込みや直列化で安全性を確保する。
