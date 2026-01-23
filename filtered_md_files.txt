@@ -1,3 +1,0 @@
-/app/hex_ts/hex_ts_study_030.md
-/app/hex_ts/hex_ts_study_029.md
-/app/hex_ts/hex_ts_study_028.md
