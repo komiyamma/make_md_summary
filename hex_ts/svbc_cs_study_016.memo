@@ -1,0 +1,1 @@
+SemVerに基づくリリースフローを実践。Patch・Minor・Majorの遷移、NuGetパッケージ作成、Changelog記述、AIを用いたドキュメント生成と互換性チェックの手法を学ぶ。
