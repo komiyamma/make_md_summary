@@ -1,1 +1,0 @@
-Adapterテストは外部との噛み合わせを確認する統合テスト。DBはTestcontainers、APIはWebApplicationFactory等を使用。Coreテストと目的を分け、Traitで分離する。
