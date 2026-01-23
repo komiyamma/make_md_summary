@@ -1,0 +1,1 @@
+Node.jsやTypeScriptのバージョン、モジュール形式など環境面での互換性定義の手法を解説。EOL方針の策定やpackage.jsonへの明記も強く推奨。
