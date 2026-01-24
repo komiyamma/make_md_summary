@@ -1,0 +1,1 @@
+Commandの検証ロジックをUI、仕様、業務ルールの3層に分離。DataAnnotationsやValidatorを用いて仕様検証をAPI入口で完結させ、ドメインロジックを保護する。

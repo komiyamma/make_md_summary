@@ -1,0 +1,1 @@
+API層を薄く保つため、RequestからCommand/Queryへの変換、Handler実行、Response返却という4ステップの定型フローを確立し、実装を統一する。

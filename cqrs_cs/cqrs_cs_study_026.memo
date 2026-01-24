@@ -1,0 +1,1 @@
+CommandとQueryの開始・終了ログをDispatcherで一元管理し、構造化ログとして統一。所要時間やTraceIdを含め、追跡可能なログ基盤を構築する。

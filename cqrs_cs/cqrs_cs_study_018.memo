@@ -1,0 +1,1 @@
+EF CoreのAsNoTrackingとDTO投影（Projection）を用いた読み取り最適化。追跡コストを削減し、必要なデータのみを取得する軽量なクエリ実装を学ぶ。
