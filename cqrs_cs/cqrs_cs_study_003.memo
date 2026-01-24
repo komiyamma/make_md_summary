@@ -1,0 +1,1 @@
+CQRS実装に不可欠なHandler、DTO、WriteModel、ReadModel、Projectionの各役割と定義を、誤解しやすい点を含めて詳細に辞書化し整理する。

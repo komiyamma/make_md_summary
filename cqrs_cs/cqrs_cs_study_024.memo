@@ -1,0 +1,1 @@
+ControllerとHandlerの間を取り持つDispatcherを自作し、小さなMediatorパターンを実装。処理の流れを統一し、Controllerを薄く保つ仕組みを学ぶ。

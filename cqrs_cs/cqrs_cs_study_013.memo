@@ -1,0 +1,1 @@
+業務ルールの適切な配置場所を解説。Entity、Domain Service、Handlerの役割分担と、入口バリデーションとの違いを明確にし、Controllerの肥大化を防ぐ。

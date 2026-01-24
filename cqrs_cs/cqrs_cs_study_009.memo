@@ -1,0 +1,1 @@
+Controllerから処理を分離し、Command/QueryごとのHandlerを作成する手法を解説。1ユースケース=1Handlerを徹底し、Controllerを薄く保つことで保守性を高める。
