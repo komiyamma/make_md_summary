@@ -1,0 +1,1 @@
+マジックナンバーや文字列を定数化（Introduce Constant）する手法を解説。const/static readonly/enumの使い分けやスコープ決定、IDE活用を学ぶ。
