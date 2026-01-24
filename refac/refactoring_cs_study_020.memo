@@ -1,0 +1,1 @@
+C#でのファイル整理手法を解説。usingの整理（Global/Implicit）、名前空間の統一（file-scoped）、VS機能による自動化でコード品質と可読性を向上させる。
