@@ -1,0 +1,1 @@
+第19章はrecord型での値オブジェクト実装を解説。等価性・不変条件・不変性の確保、TryCreate/CreateOrThrowの使い分け、record class/structの選択基準を紹介。
