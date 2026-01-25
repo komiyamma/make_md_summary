@@ -1,0 +1,1 @@
+クラスの配置や名前空間をフォルダ構成と一致させ、global usingやfile-scoped namespaceを活用して、コードの見通しと保守性を向上させる整理術。
