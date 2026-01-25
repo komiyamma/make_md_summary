@@ -1,1 +1,0 @@
-EditorConfigでチーム共通のフォーマットルールを定義し、Code Cleanupやdotnet formatでコード整形を自動化して、差分ノイズを減らす運用手法。
