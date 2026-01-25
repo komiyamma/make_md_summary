@@ -1,0 +1,1 @@
+第14章は例外とResult型の使い分けを解説。契約違反は例外、想定内エラーはResult型という基準や、Post条件の定義、CreateOrThrow対TryCreateの実装例を紹介。

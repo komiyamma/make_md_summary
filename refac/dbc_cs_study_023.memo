@@ -1,0 +1,1 @@
+AssertとDbCの違いを解説。内部不変条件や到達不能コードなどAssertの適切な配置、Debug.AssertとTrace.Assertの使い分け、Release時の設定を紹介。
