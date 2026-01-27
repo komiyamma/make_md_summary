@@ -1,0 +1,1 @@
+DbContext、DbSet、マイグレーションを用いて、SQLiteでOrderの保存と読み込みを行う。ValueObjectはOwnedマッピングを活用する。環境は.NET 10が前提。

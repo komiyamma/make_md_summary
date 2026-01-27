@@ -1,0 +1,1 @@
+DbContextはUnit of Workとして変更を管理し、SaveChangesで一括確定する。1ユースケースにつき1回、アプリ層の最後に呼び出すのが基本である。
