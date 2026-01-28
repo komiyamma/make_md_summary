@@ -1,0 +1,1 @@
+外部データに含まれる欠損や不正値への対処法として、Reject・Default・Normalize・Unknownの4方針と、それぞれの適用基準を解説しています。
